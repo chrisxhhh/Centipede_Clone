@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_centi_body",
-    "path": "sprites/spr_centi_body/spr_centi_body.yy",
+    "name": "spr_spider",
+    "path": "sprites/spr_spider/spr_spider.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,11 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -35,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_centipede",
+  "name": "obj_spider",
   "tags": [],
   "resourceType": "GMObject",
 }
